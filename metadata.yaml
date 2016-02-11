@@ -1,0 +1,39 @@
+_repo: Letters-of-Felix-Mendelssohn-Bartholdy-from-1833-to-1847_50473
+contributor:
+  creator:
+    editors:
+    - agent_name: Mendessohn-Bartholdy, Paul
+      gutenberg_agent_id: '45927'
+      url: http://www.gutenberg.org/2009/agents/45927
+    - agent_name: Mendessohn-Bartholdy, Carl
+      gutenberg_agent_id: '45928'
+      url: http://www.gutenberg.org/2009/agents/45928
+  translator:
+    agent_name: Wallace, Lady (Grace Jane)
+    gutenberg_agent_id: '45929'
+    url: http://www.gutenberg.org/2009/agents/45929
+creator:
+  author:
+    agent_name: Mendelssohn-Bartholdy, Felix
+    aliases:
+    - Mendelssohn, Felix
+    - Mendelssohn, F. (Felix)
+    - Mendelssohn-Bartholdy, Jakob Ludwig Felix
+    - Mendelssohn-Bartholdy, Jacob Ludwig Felix
+    - Mendelssohn-Bartholdy, F. (Felix)
+    birthdate: 1809
+    deathdate: 1847
+    gutenberg_agent_id: '8145'
+    url: http://www.gutenberg.org/2009/agents/8145
+    wikipedia: http://en.wikipedia.org/wiki/Felix_Mendelssohn
+description: ''
+gutenberg_issued: '2015-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Letters of Felix Mendelssohn-Bartholdy from 1833 to 1847
+url: http://www.gutenberg.org/ebooks/50473
