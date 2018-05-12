@@ -1,4 +1,5 @@
 _repo: Letters-of-Felix-Mendelssohn-Bartholdy-from-1833-to-1847_50473
+_version: 0.1.0
 contributor:
   creator:
     editors:
@@ -12,6 +13,9 @@ contributor:
     agent_name: Wallace, Lady (Grace Jane)
     gutenberg_agent_id: '45929'
     url: http://www.gutenberg.org/2009/agents/45929
+covers:
+- cover_type: archival
+  image_path: 50473-h/images/cover.jpg
 creator:
   author:
     agent_name: Mendelssohn-Bartholdy, Felix
@@ -27,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8145
     wikipedia: http://en.wikipedia.org/wiki/Felix_Mendelssohn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50473#Letters-of-Felix-Mendelssohn-Bartholdy-from-1833-to-1847
 gutenberg_issued: '2015-11-17'
 gutenberg_type: Text
 identifiers:
